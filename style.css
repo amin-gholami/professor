@@ -1,0 +1,57 @@
+				.body-top {
+				  padding-top: 217px;
+				}
+				.header-top { 
+				  background-size: cover; 
+				  padding-top: 50px;
+				  padding-bottom: 50px;
+
+				}
+				#mainnavbar{
+					background-image: url('Feature_film_wallaper3.png');
+					color: black;
+				}
+				.header-text {
+				  margin-bottom: 0px;
+				  color: black;
+				}
+				#mainnavbar li a{
+					color:black;
+				}
+				#mainnavbar li a.active {
+					color: #fff;
+    				background-color: #080808;
+				}
+				#sidebar{
+  					height:40%;
+  					position:fixed;
+  					right:0;
+  					border-radius: 15px;
+  					border-color: black;
+  					margin-bottom: 10px;
+  					margin-right: 10px;
+				}
+				#news li{
+					border-color: black;
+				}
+				body{
+					padding-bottom: 100px;
+				}
+				#teaching-table{
+					margin-top: 40px;
+				}
+				#tabs{
+					padding-top: 30px;
+				}
+				#biography{
+					font-family: 'Droid Serif', serif;
+					padding-top: 30px;
+					padding-bottom: 30px;
+					padding-right: 40px;
+					background-color: #679ece;
+					border-color: black;
+					border-radius: 15px;
+				}
+				#info{
+					font-family: 'Merriweather', serif;
+				}
